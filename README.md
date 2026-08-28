@@ -4,6 +4,17 @@ A complete Switch-Mode Power Supply (SMPS) designed from scratch using the Flyba
 topology, converting 230VAC mains input to a regulated 12V DC output. This project
 covers full schematic design, PCB layout, and 3D validation.
 
+## 📷 Overview
+
+### Schematic
+![Schematic](images/schematic.png)
+
+### PCB Layout
+![PCB Layout](images/pcb_layout.png)
+
+### 3D Render
+![3D Render](images/3d_render.png)
+
 ⚡Specifications
 
 Parameter Value
